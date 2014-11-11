@@ -1,0 +1,16 @@
+PODS:
+  - Color-Picker-for-iOS (2.0)
+  - MBCalendarKit (2.2.2)
+  - PDTSimpleCalendar (0.7.0)
+
+DEPENDENCIES:
+  - Color-Picker-for-iOS (~> 2.0)
+  - MBCalendarKit (~> 2.2.2)
+  - PDTSimpleCalendar (~> 0.7.0)
+
+SPEC CHECKSUMS:
+  Color-Picker-for-iOS: 2eec454aa6b24a8b7c2537da0f61c6ead936949e
+  MBCalendarKit: 82c43cf70c961e27fa2d80f62738492fe0bafa4d
+  PDTSimpleCalendar: b51e26a38a315ff8f4a038ab4cae00ad42bc1e92
+
+COCOAPODS: 0.34.4

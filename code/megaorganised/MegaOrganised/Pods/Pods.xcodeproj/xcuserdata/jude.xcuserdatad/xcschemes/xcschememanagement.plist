@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-MegaOrganised-Color-Picker-for-iOS.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-MegaOrganised-MBCalendarKit.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-MegaOrganised-PDTSimpleCalendar.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-MegaOrganised.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1C9F2D5D01BDBFEFC1C70D7A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2170F3E394699A55A635AB96</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>61DC13CB78E5A5150010BDB8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>79224AA72F9CCA3FC01A5A00</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
